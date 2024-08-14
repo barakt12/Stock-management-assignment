@@ -1,0 +1,24 @@
+.portfolio {
+    .portfolio-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .stock-icon {
+        max-width: 32px;
+    }
+
+    .ant-table-cell {
+        cursor: pointer;
+    }
+}
+
+
+.stock-form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
