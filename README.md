@@ -6,7 +6,11 @@ Stock Management is a web application for managing stock portfolios. It allows u
 
 # Note:
 - There is no authentication element in this assignment.
-- I included the .env file with my (free) api key so it works straight out of the box. 
+- I included the .env file with my (free) api key so it works straight out of the box.
+
+![Portfolio Overview](assets/images/Screenshot_5.png)
+![Add trade to portfolio](assets/images/Screenshot_6.png)
+![Stock Details Page](assets/images/Screenshot_7.png)
 
 ## Features
 
